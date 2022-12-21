@@ -1,0 +1,32 @@
+
+import 'lang_keys.dart';
+
+const Map<String, String> en = {
+  LangKeys.signIn: 'Login',
+  LangKeys.signUp: 'sign Up',
+  LangKeys.signInNow: 'sign In Now',
+  LangKeys.next: 'Next',
+  LangKeys.pleaseEnterTheDetailsBelowToContinue: 'Please enter the details below to continue',
+  LangKeys.mobile: 'Mobile',
+  LangKeys.mobileNumber: 'Mobile Number',
+  LangKeys.enterMobileNumber: 'Enter Mobile Number',
+  LangKeys.email: 'Email',
+  LangKeys.enterEmail: 'Enter Email',
+  LangKeys.emailNotValid: 'Email is not valid',
+  LangKeys.usernameOrEmail: 'Username Or Email',
+  LangKeys.password: 'Password',
+  LangKeys.enterPassword: 'Enter Password',
+  LangKeys.forgotPassword: 'Forgot Password?',
+  LangKeys.doNotHaveAnAccount: 'Do not have an account?',
+  LangKeys.subscription: 'Subscription',
+  LangKeys.client: 'Client',
+  LangKeys.serviceProvider: 'Service Provider',
+  LangKeys.username: 'Username',
+  LangKeys.enterUsername: 'Enter Username',
+  LangKeys.fullName: 'Full Name',
+  LangKeys.enterFullName: 'Enter Full Name',
+  LangKeys.termsConditionsPrivacy: 'Terms And Conditions & Privacy Policy',
+  LangKeys.chooseServiceCategories: 'Choose your service from the categories',
+  LangKeys.notInternetConnection: 'Not Internet Connection',
+  LangKeys.error: 'Error',
+};

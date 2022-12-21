@@ -1,0 +1,28 @@
+import 'package:flutter/material.dart';
+
+const primary = Color.fromARGB(255, 255, 30, 218);
+const lightGrey = Color(0xFFCCCCCC);
+const lightGrey2 = Color(0xFFEEEEEE);
+const lightGrey3 = Color(0xFFFBFBFB);
+const lightGrey4 = Color(0xFFFCFCFC);
+const lightGrey5 = Color(0xFFFAFAFA);
+const lightGrey6 = Color(0xFFF6F6F6);
+const lightGreen = Color(0xFFF2FCF7);
+const lightRed = Color(0xFFFBF2F3);
+const darkGreen = Color(0xFF00C269);
+const darkGrey = Color(0xFFA3A3A3);
+const orange = Color(0xFFFFB300);
+const green = Color(0xFF79B03B);
+const blue = Color(0xFF004CBE);
+const yellow = Color(0xFFFFB300);
+const red = Color(0xFFF89292);
+const red3 = Color(0xFFFFE6E6);
+const grey = Color(0xFFD4D4D4);
+const grey1 = Color(0xFFD9D9D9);
+const grey2 = Color(0xFFDFDFDF);
+const textCurrency = Color(0xFF27B87F);
+const tabBarSelected = Color(0xFF29A9F0);
+const textSubTitle = Color(0xFF525252);
+const timeNotification = Color(0xFF525252);
+const textRadioBtn = Color(0xFF1E1E1E);
+const bodyIntroText = Color(0xFF525252);
